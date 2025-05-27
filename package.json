@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "мой первый проект на хекслете",
+  "homepage": "https://github.com/bugroach/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/bugroach/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugroach/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "big bug bugger gooby bob bigrich",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
